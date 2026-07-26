@@ -74,7 +74,7 @@ I plan to provide separate release packages for:
 
 Read the installation and import guide here:
 
-https://roogame.gitbook.io/roogame/survivors-roguelike-kit/quick-start
+https://roogame.gitbook.io/roogame/survivors-roguelike-kit
 
 In general:
 
