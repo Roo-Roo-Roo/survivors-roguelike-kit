@@ -5,7 +5,7 @@ Build your own Vampire Survivors-style game in Unity with a complete, open-sourc
 ![Unity](https://img.shields.io/badge/Unity-6-black)
 ![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-Built--in-blue)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Documentation](https://img.shields.io/badge/Documentation-GitBook-orange)](https://roofen-game.gitbook.io/roofen-game/survivors-roguelike-kit)
+[![Documentation](https://img.shields.io/badge/Documentation-GitBook-orange)](https://roogame.gitbook.io/roogame/survivors-roguelike-kit)
 
 A complete Unity 2D survivors-like roguelike game template, originally released as a Unity Asset Store asset.
 The original Asset Store version was sold for $30 and received 150+ wishlists before this open-source release.
@@ -74,7 +74,7 @@ I plan to provide separate release packages for:
 
 Read the installation and import guide here:
 
-https://roofen-game.gitbook.io/roofen-game/survivors-roguelike-kit/quick-start
+https://roogame.gitbook.io/roogame/survivors-roguelike-kit/quick-start
 
 In general:
 
@@ -87,7 +87,7 @@ In general:
 
 Full documentation:
 
-https://roofen-game.gitbook.io/roofen-game/survivors-roguelike-kit
+https://roogame.gitbook.io/roogame/survivors-roguelike-kit
 
 Useful topics include:
 
